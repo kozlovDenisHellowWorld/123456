@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X6zblakFT2SnCL+UQmCUQgTM+CF7jFqJwMmMI6tZR9PVYNKDf3cd0k1ClgWUyspJALplk/tjw52wLdPOj475rw==",
+  "dgSpecHash": "yNygd0UP1ah5A+DzuLHCQrNp0R7wLbhSF0fOumFZ6S/AemFmoOflRhgP1XYHy9/isJomIFTgLpgWsqWxqe/Q1A==",
   "success": true,
-  "projectFilePath": "D:\\kelevroRepostAssistant\\Telebot\\Telebot.csproj",
+  "projectFilePath": "D:\\123456\\Telebot\\Telebot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yparo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\yparo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

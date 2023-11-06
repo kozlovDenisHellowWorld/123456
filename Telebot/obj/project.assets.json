@@ -4031,11 +4031,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\kelevroRepostAssistant\\Telebot\\Telebot.csproj",
+      "projectUniqueName": "D:\\123456\\Telebot\\Telebot.csproj",
       "projectName": "Telebot",
-      "projectPath": "D:\\kelevroRepostAssistant\\Telebot\\Telebot.csproj",
+      "projectPath": "D:\\123456\\Telebot\\Telebot.csproj",
       "packagesPath": "C:\\Users\\yparo\\.nuget\\packages\\",
-      "outputPath": "D:\\kelevroRepostAssistant\\Telebot\\obj\\",
+      "outputPath": "D:\\123456\\Telebot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

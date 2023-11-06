@@ -4056,11 +4056,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\kelevroRepostAssistant\\BeauteRoom\\BeauteRoom.csproj",
+      "projectUniqueName": "D:\\123456\\BeauteRoom\\BeauteRoom.csproj",
       "projectName": "BeauteRoom",
-      "projectPath": "D:\\kelevroRepostAssistant\\BeauteRoom\\BeauteRoom.csproj",
+      "projectPath": "D:\\123456\\BeauteRoom\\BeauteRoom.csproj",
       "packagesPath": "C:\\Users\\yparo\\.nuget\\packages\\",
-      "outputPath": "D:\\kelevroRepostAssistant\\BeauteRoom\\obj\\",
+      "outputPath": "D:\\123456\\BeauteRoom\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -4081,8 +4081,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\kelevroRepostAssistant\\Telebot\\Telebot.csproj": {
-              "projectPath": "D:\\kelevroRepostAssistant\\Telebot\\Telebot.csproj"
+            "D:\\123456\\Telebot\\Telebot.csproj": {
+              "projectPath": "D:\\123456\\Telebot\\Telebot.csproj"
             }
           }
         }

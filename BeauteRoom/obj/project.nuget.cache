@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wRsafKiKmlDdhPxCwSep6x5g/E4U4zJUZoJT3FbU4bRt3bXQDyybYawlr/ZHLMclCr8dmcXw/xGAWTP6Z3m/gQ==",
+  "dgSpecHash": "eNfp7PguWOAh69FNCg9oGAbRKu725SzB2y9hGKHHhC/r5dOEjO2yPTn/VolOHfngX7kProVaTdHWeqNdrGcYKw==",
   "success": true,
-  "projectFilePath": "D:\\kelevroRepostAssistant\\BeauteRoom\\BeauteRoom.csproj",
+  "projectFilePath": "D:\\123456\\BeauteRoom\\BeauteRoom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yparo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\yparo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
